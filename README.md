@@ -2,7 +2,6 @@
 
 ## Table of Contents
 - [Project Description](#project-description)
-- [Folder Structure](#folder-structure)
 - [Requirements](#requirements)
 - [How to Use](#how-to-use)
 - [Features](#features)
@@ -18,12 +17,6 @@ The project begins with the creation of an Employee Database, importing datasets
 Additionally, stored procedures and user-defined functions are developed to automate repetitive HR queries, such as retrieving employee details by experience and validating job roles against organizational standards. Performance optimization is achieved through index creation and execution plan analysis, ensuring efficient query execution. The project concludes with the generation of views and role-based data insights for reporting purposes.
 
 This project demonstrates the power of SQL in real-world business analytics, enabling data-driven decisions for employee evaluation, resource planning, and organizational improvement while showcasing strong database design, querying, and optimization skills.
-
----
-
-## Folder Structure
-- `SQL/` : Contains all SQL scripts for database creation, data insertion, and querying.  
-- `Excel/` : Contains Excel files with employee performance data used for reference and reporting.  
 
 ---
 

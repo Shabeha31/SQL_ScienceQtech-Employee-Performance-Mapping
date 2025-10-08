@@ -27,6 +27,13 @@ This project demonstrates the power of SQL in real-world business analytics, ena
 ---
 
 ## How to Use
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Shabeha31/SQL_ScienceQtech-Employee-Performance-Mapping.git
+1. Open your preferred SQL environment (e.g., MySQL, SQL Server, PostgreSQL).  
+2. Run the SQL scripts in the `SQL` folder.  
+3. Use the Excel files as reference data for analysis or visualization.
+
+## Features
+- Employee performance mapping
+- Data analysis using SQL
+
+## Author
+Shabeha khan
